@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 
-description 'Red flames ;)'
+description 'Red flames ;).'
 
 version '1.0.0'
 
